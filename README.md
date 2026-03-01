@@ -4,7 +4,7 @@ Hi, I’m Andrey, a student that's wrapping up my 3rd year courses at Seneca Pol
 
 * [LSTM Seq2Seq Translator:]() Using Tensorflow to build an LSTM Seq2Seq translator and comparing the results to that of a transofrmer built with Pytorch. 
 
-* [XGboost Model that Predicts Tennis Mathces:]() Using men's ATP singles matches since 1968 to predict the outcome of future matches. This project blends my Joy for tennis and data analytics together!
+* [XGboost Model that Predicts Tennis Mathces:](https://github.com/AndreyKudritskiy/Tennis-Match-Prediction-Model) Using men's ATP singles matches since 1968 to predict the outcome of future matches. This project blends my Joy for tennis and data analytics together!
 
 * [Unsupervised Taxi Cab Classifiers:]() Classifying taxi cab data from the city of Porto, Portugal using KNN, heirachical clustering, and GMM. Also observing the resulting clusters using Inertia(WCSS), Silhoutte score, Daves Bouldin Index,etc...
 
