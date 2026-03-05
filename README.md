@@ -1,4 +1,4 @@
-# Data Science & Analytics Porfolio
+# Data Science & Analytics Portfolio
 Honours Bachelor of Data Science and Analytics 4th year student at Seneca Polytechnic
 
 ## About Me
