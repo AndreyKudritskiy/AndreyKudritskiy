@@ -14,36 +14,39 @@ Here are 4 projects I've completed in my most recent semesters from the courses:
 * **Communicated insights effectively** by summarizing findings through visualizations, markdown documentation, and performance comparisons; turning complex statistical results into interpretable conclusions/laymans terms.
 #
 * [LSTM Seq2Seq Translator:](https://github.com/AndreyKudritskiy/LSTM-Seq2Seq-English-to-Russian-Translation)
-  <br>**Python | NLP | Deep Learning | Model Evaluation**
-  <br>Using the Tatoeba database to train an LSTM with 787,439 sentence pairs to traslate English Sentences to Russian. Exploring the resulting translations and comparing to a Pytorch Transformer model.
+  <br>**Python | Tensorflow | NLP | Deep Learning | Model Evaluation**
+  <br>Using the Tatoeba database to train an LSTM with Tensroflow with 787,439 sentence pairs to traslate English Sentences to Russian. Exploring the resulting translations and comparing to a Pytorch Transformer model.
     
 * [XGboost Model that Predicts Tennis Mathces:](https://github.com/AndreyKudritskiy/Tennis-Match-Prediction-Model)
-  <br>**Python | Machine Learning | Feature Engnieering | XGboost | Tree Classifier**
+  <br>**Python | Sci-kit Learn | Machine Learning | Feature Engnieering | XGboost | Tree Classifier**
   <br>Using 194,996 men's ATP singles macthes from 1968 to 2024 to predict tennis match outcomes. 
 
-* [Unsupervised Taxi Cab Classifiers:](https://github.com/AndreyKudritskiy/Unsupervised-Classification-of-Taxi-Cab-rides-)
-  <br>**Python | Machine Learning | Classification | Model Evaluation**
-  <br>Classifying taxi cab data from the city of Porto, Portugal using KNN, heirachical clustering, and Gaussian Mixture Models(GMM). Peformed Model Evaluationwith  relevant respective clustering metrics such as Inertia(WCSS), Silhoutte score, Daves Bouldin Index,etc...
+* [Unsupervised Taxi Cab Clustering Models:](https://github.com/AndreyKudritskiy/Unsupervised-Classification-of-Taxi-Cab-rides-)
+  <br>**Python | Sci-kit Learn | Machine Learning | Clustering | Model Evaluation**
+  <br>Applying clustering techniques to taxi cab data from the city of Porto, Portugal using KNN, Heirachical Clustering, and Gaussian Mixture Models(GMM). Peformed Model Evaluation using relevant, respective clustering metrics such as: Inertia(WCSS), Silhoutte score, Daves Bouldin Index,etc...
 
 * [Using Youtube API to generate a dataset](https://github.com/AndreyKudritskiy/Generating-a-Dataset-With-Youtube-API):
   to be expanded on (ignore)
   <br>**Python | RESTful API | ETL Pipeline | Dataset Generation**
   <br>Using Youtube V3 API to generate datasets from 10 main stream media sources for future social media analytics
 
-*please note that I'm actively adding to this README file and that if you can see this message it is not complete*
-## Older projects (WIP) - Only Globalization Website link will work
+## Older projects
 If you'd like to see more projects I've worked on throughtout the years feel free to explore the following repositories or reach out to through LinkedIn.
 
 * [Globalization Website - Non Technical](https://laumichaelca17.wixsite.com/globalization):
 Fullfilled the role of a Scrum Master in order to generate a website with an "IT team" for a class-wide project.
 
+* More projects on the way
+
+<!---
 * [Bike Sharing EDA through PySpark:]() Using PySpark to perform some simple EDA on Bike daat from Washington D.C
   
 * [Power BI - Norcan Employee Data Dashboard:]() Practicing Data Visuzaltiaon and delivering KPIs, Actionable insights through various means of interaction data visualzations...
 
-* [Simple EDA and Modeling in R](): to be updated
-
 * [Markov Chain Random Text Generator:]() A good example of writing clean code from a small project I did during my first year in the DSA program at Seneca Polytechnic.
+* [Simple EDA and Modeling in R](): to be updated
+-->
+<br>
 
-*For the sake of transparency: some of these projects have been done in groups, most of the code in the repositories you will see is mine however, it will be specified if another group member had worked on code that I have not written. I still read and undestood the code given that I had to work with it. In these cases, if it is not clear please reach out to me I'd be happy to resolve any ambiguous situations*
+*For the sake of transparency: some of these projects have been done in groups, most of the code in the repositories you will see is mine, however it will be specified if another group member had worked on code that I have not written. I still read and undestood the code given that I had to work with it. In these cases, if it is not clear please reach out to me I'd be happy to resolve any ambiguous situations*
 
