@@ -26,7 +26,6 @@ Here are 4 projects I've completed in my most recent semesters from the courses:
   <br>Applying clustering techniques to taxi cab data from the city of Porto, Portugal using KNN, Heirachical Clustering, and Gaussian Mixture Models(GMM). Peformed Model Evaluation using relevant, respective clustering metrics such as: Inertia(WCSS), Silhoutte score, Daves Bouldin Index,etc...
 
 * [Using Youtube API to Generate a Dataset](https://github.com/AndreyKudritskiy/Generating-a-Dataset-With-Youtube-API):
-  to be expanded on (ignore)
   <br>**Python | RESTful API | ETL Pipeline | Dataset Generation**
   <br>Using Youtube V3 API to generate datasets from 10 main stream media sources for future social media analytics
 
